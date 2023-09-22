@@ -29,6 +29,7 @@
 body{
   /*background: color image repeat position/size*/
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 /*adicionando seletor universal "*" para adicionar a fonte e cor para todo o body*/
@@ -166,4 +167,15 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+/*medias queries*/
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/assets/bg-desktop-dark.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+  }
 }
