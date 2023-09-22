@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://Glauberjr2.github.io/meuslinks)
+- [Acesse o projeto finalizado, online](https://Glauberjr2.github.io/meusLinks)
 
 
 ## 🔖 Layout
